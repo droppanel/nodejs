@@ -1,0 +1,27 @@
+{
+  "name": "node-example",
+  "version": "0.0.0",
+  "description": "Node Js App Example",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/droppanel/examples.git"
+  },
+  "keywords": [
+    "nodejs",
+    "droppanel"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/droppanel/examples/issues"
+  },
+  "homepage": "https://github.com/droppanel/examples#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
